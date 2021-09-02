@@ -97,7 +97,7 @@ The oil-to-water transfer block for dual-loop systems. Plate heat exchangers wit
 * [5"x12" 30-plate 1.25" ports](https://www.amazon.com/dp/B085BYZFH8/): $140, no listed BTU
 * [5"x12" 10-plate 1.25" ports](https://www.amazon.com/dp/B073ZMQLQ9/ref=cm_sw_r_tw_dp_YBK78TMJ28RV1GYV073G?_encoding=UTF8&psc=1): $143, 110k BTU (suspiciously high?)
 * [5"x12" 60-plate 1.25" ports](https://www.amazon.com/dp/B07334VF8T/): $180, 150k BTU;
-* [5"x12" 60-plate 1.25" ports](https://www.amazon.com/VEVOR-Exchanger-Stainless-Hydronic-Heating/dp/B08N558K97): $190, no listed BTU. [Used by CoinHeating](https://t.me/ImmersionCoolingTechnologyTalk/16568)
+* [5"x12" 60-plate 1.25" ports](https://www.amazon.com/VEVOR-Exchanger-Stainless-Hydronic-Heating/dp/B08N558K97): $190, no listed BTU. [Used by CoinHeated](https://t.me/ImmersionCoolingTechnologyTalk/16568)
 * [5"x12" 20-plate 1.25" ports](https://www.amazon.com/dp/B073ZNGL48/ref=cm_sw_r_tw_dp_CBSXQ68P0JK9P52RSQSP?_encoding=UTF8&psc=1): $165, 170k BTU (suspiciously high?)
 
 
