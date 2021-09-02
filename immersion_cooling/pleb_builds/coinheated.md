@@ -9,5 +9,5 @@ Parts:
 * 40gal "breeder" fish tanks from PetCo. Tested up to 170°, [silicon tank seals are compatible](https://t.me/ImmersionCoolingTechnologyTalk/16504) with BitCool. Breeder tanks are deeper and shorter than a typical tank.
 * [60 plate heat exchanger](https://www.amazon.com/VEVOR-Exchanger-Stainless-Hydronic-Heating/dp/B08N558K97)
 * [1/4 HP Submersible Utility Pump](https://www.menards.com/main/plumbing/pumps-tanks/utility-sump-pumps/barracuda-reg-1-4-hp-thermoplastic-submersible-utility-pump/91250/p-1444428713624-c-1489153238832.htm?tid=5737724981746642496&ipos=8)
-* CPVC pipes for oil
+* metal (or CPVC) pipes for oil
 * PVC pipes for water
